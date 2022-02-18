@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="top_text">WHO WON?</string>
+    <string name="top_button">ROLL THE DICE!</string>
+    <string name="bottom_button">RESET</string>
+    <string name="left_text">-</string>
+    <string name="right_text">-</string>
+    <string name="mid_text">-</string>
+</resources>
